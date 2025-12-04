@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": "2",
+      "name": "Priya Sharma",
+      "section": "B",
+      "marks": 72,
+      "grade": "B"
+    },
+    {
+      "id": "3",
+      "name": "Rahul Verma",
+      "section": "A",
+      "marks": 90,
+      "grade": "A+"
+    },
+    {
+      "id": "4",
+      "name": "Sneha Gupta",
+      "section": "C",
+      "marks": 65,
+      "grade": "C"
+    },
+    {
+      "id": "5",
+      "name": "Rohit Singh",
+      "section": "B",
+      "marks": 55,
+      "grade": "D"
+    }
+  ]
+}
